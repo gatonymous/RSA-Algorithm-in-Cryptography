@@ -1,7 +1,7 @@
 # RSA-Algorithm-in-Cryptography
 Implementation of the RSA algorithm. Decryption with Shor's algorithm (classical computing)
 
-## Computación Cuántica
+## Quantum Computing
 ## Team Qubits :)
 Autors:
 * Montañez C. Willians
